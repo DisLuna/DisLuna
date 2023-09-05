@@ -31,6 +31,8 @@
 
 ###
 
+<br clear="both">
+
 <img src="https://raw.githubusercontent.com/DisLuna/DisLuna/output/snake.svg" alt="Snake animation" />
 
 ###
